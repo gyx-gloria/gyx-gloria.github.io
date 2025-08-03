@@ -1,2 +1,1 @@
-# gyx-gloria.github.io
-Homepage
+This is the source code to my academic website: https://gyx-gloria.github.io. The template is borrowed from Jon Barron's public academic website: https://jonbarron.info/
